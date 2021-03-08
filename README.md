@@ -1,6 +1,6 @@
 Prerequisite:
-Terraform Version: 0.12 or higher
-AWS Credentials: Export AWS Access/Secret/Token before deployment
+1. Terraform Version: 0.12 or higher
+2. AWS Credentials: Export AWS Access/Secret/Token before deployment
 
 
 Network: 
