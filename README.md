@@ -2,9 +2,12 @@ Prerequisite:
 1. Terraform Version: 0.12 or higher
 2. AWS Credentials: Export AWS Access/Secret/Token before deployment
 
+Architecture Diagram:
+![AWS Architecture - Webserver + Autoscaling + EFS + Secure](https://user-images.githubusercontent.com/10628719/111072665-8c492f00-8501-11eb-8ffb-b50cf1f9d4e6.png)
+
+Workflow using Terraform:
 
 Network: 
-
 1. Created a custom VPC
 2. It includes 4 subnets - 2 Public and 2 Private
 3. Internet Gateway for Public Subnet
