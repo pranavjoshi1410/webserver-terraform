@@ -3,7 +3,7 @@ Prerequisite:
 2. AWS Credentials: Export AWS Access/Secret/Token before deployment
 
 Architecture Diagram:
-![AWS Architecture - Webserver + Autoscaling + EFS + Secure](https://user-images.githubusercontent.com/10628719/111072665-8c492f00-8501-11eb-8ffb-b50cf1f9d4e6.png)
+![AWS Architecture - Webserver + Autoscaling + EFS + Secure By Pranav Joshi](https://user-images.githubusercontent.com/10628719/111072772-0da0c180-8502-11eb-9b41-297d0cb83ed6.png)
 
 Workflow using Terraform:
 
